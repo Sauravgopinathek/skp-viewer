@@ -1,6 +1,6 @@
 Experimental SketchUp viewer
 
-![screenshot](screenshot.png)
+![screenshot](image.png)
 
 ## Features
 
